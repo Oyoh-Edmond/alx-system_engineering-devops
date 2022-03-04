@@ -1,2 +1,1 @@
-#!/bin/bash
-"alx devops shell task"
+shell basics with all it commands
